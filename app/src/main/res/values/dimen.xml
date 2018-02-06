@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largeMarginTop">50dp</dimen>
+    <dimen name="smallMarginTop">15dp</dimen>
+    <dimen name="midTextSize">25sp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrueMath</string>
+    <string name="Title">True math... or false !?</string>
+    <string name="RulesTitle">Rules</string>
+    <string name="Rule1">Each round you will get a mental arithmetical problem.</string>
+    <string name="Rule2">Enter the solution into the text field below the problem.</string>
+    <string name="Rule3">IF the answer is correct you get one point... </string>
+    <string name="Rule4">...IF NOT your score will be set to zero again.</string>
+    <string name="Rule5">Do not use a calculator.</string>
+    <string name="button">Start</string>
+</resources>
